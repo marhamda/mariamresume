@@ -1,0 +1,22 @@
+.inner {
+ margin: 0 auto;
+ width: 95%;
+ } 
+.main {
+ float:right;
+ width:67%;
+ }
+ .innerMain{
+  float:left;
+ }
+ .mast{
+float:left;
+width:33%;
+}
+.intro {
+margin-top: 130px;
+float:left;
+}
+.main {
+margin-top:150px;
+}

@@ -1,0 +1,20 @@
+@media(max-width:1300px) {
+.mast, .intro {
+float:right;
+width:auto;
+}
+.figure {
+width: 25%;
+}
+ul.nav li {
+float:left;
+margin-right: 3%;
+width: 29%;
+}
+.intro{
+float:right;
+margin-top:10px;
+}
+.main{
+margin-top:10px;
+}

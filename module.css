@@ -1,0 +1,20 @@
+.info{
+text-transform:uppercase;
+}
+.innerMain{
+text-transform:lowercase;
+margin: 0 auto 1 rem;
+}
+.figure img {
+display:block;
+margin: 0 auto 1 rem;
+border-radius: 10px;
+box-shadow: 0 2px 4px rgba(0,0,0,.5);
+}
+ul.nav a {
+text-transform:uppercase;
+display:block;
+text-align:center;
+margin-bottom: -1rem;
+padding: 1em 0.5em 3em;
+}

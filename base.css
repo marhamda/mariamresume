@@ -1,0 +1,23 @@
+body{ 
+background:url("background.jpg");
+color:#2B1B17;
+font:Cambria;
+text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+margin:0;
+}
+ol, ul, li{
+list-style:none;
+}
+a {
+color:#2B1B17;
+text-decoration: none;
+font-weight:bold;
+}
+a:hover {
+color:#FBBBB9;
+}
+img {
+max-width: 100%;
+}
+
+
